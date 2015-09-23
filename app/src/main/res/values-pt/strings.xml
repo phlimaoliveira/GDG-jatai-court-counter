@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contador de Pontos</string>
+
+    <string name="hello_world">Olá mundo!</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="team_a">Time A</string>
+    <string name="team_b">Time B</string>
+    <string name="three_points">+3 PONTOS</string>
+    <string name="two_points">+2 PONTOS</string>
+    <string name="free_throw">LANCE LIVRE</string>
+    <string name="reset">LIMPAR</string>
+</resources>
